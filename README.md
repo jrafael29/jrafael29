@@ -1,15 +1,12 @@
-<div align="center">
-  <a href="https://github.com/jrafael29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrafael29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrafael29&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# 👋 Hello there, seja bem-vindo!
 
-  
-  ##
- 
-<div> 
+- 👨‍💻 Desenvolvedor web apaixonado por tecnologia e aprendizado contínuo
+- 🌱 Sempre ansioso para aprender coisas novas!
+- 🔍 Explorando boas práticas no desenvolvimento web e arquitetura de projetos.
+- 🧠 Interesso-me por backend, automações e otimização de performance
 
-  <a href = "mailto:jrafael5758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jrafael29" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+# Skills
+[![Skills](https://skillicons.dev/icons?i=js,ts,php,py,lua,mysql,postgres,redis,css,html,tailwind,bootstrap,jquery,laravel,nodejs,npm)](https://skillicons.dev)
+
+# Tools
+[![Tools](https://skillicons.dev/icons?i=linux,ubuntu,github,git,maven,pycharm,idea,rider,vscode,postman)](https://skillicons.dev)
