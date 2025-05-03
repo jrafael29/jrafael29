@@ -9,4 +9,4 @@
 [![Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,py,lua,mysql,postgres,redis,css,html,tailwind,bootstrap,jquery,react,npm)](https://skillicons.dev)
 
 # Tools
-[![Tools](https://skillicons.dev/icons?i=linux,ubuntu,github,git,maven,pycharm,idea,rider,vscode,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,ubuntu,github,git,vscode,postman)](https://skillicons.dev)
