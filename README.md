@@ -6,7 +6,7 @@
 - 🧠 Interesso-me por backend, automações e otimização de performance
 
 # Skills
-[![Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,py,lua,mysql,postgres,redis,css,html,tailwind,bootstrap,jquery,react,npm)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,py,lua,shellscript,mysql,postgres,redis,css,html,tailwind,bootstrap,jquery,react,vue,npm)](https://skillicons.dev)
 
 # Tools
 [![Tools](https://skillicons.dev/icons?i=linux,ubuntu,github,git,vscode,postman)](https://skillicons.dev)
